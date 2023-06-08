@@ -1,7 +1,7 @@
 # lazy-student
 Video playlists collections transcriptions bilingual for prompt engineering
 
-A google colab notebook
+A google colab notebook - use the 'Open in Colab' button.
 
 This is for the work-optimized student - openai's [prompt engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) with access to collections of video-lecture transicriptions, focused on bilingualism and yaml persistence.
 
