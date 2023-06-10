@@ -14,3 +14,5 @@ This is for the work-optimized student - openai's [prompt engineering](https://w
 * A **collection** is a list of several youtube **playlists** (playlists.yml) with its own **folder** for the **created yml** files.
 * More questions? **Look in the help tab or code** - there are more detailed descriptions.
 ---
+
+![](lazy_stud_ani.gif)
