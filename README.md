@@ -18,3 +18,4 @@ This is for the work-optimized student - openai's [prompt engineering](https://w
 ---
 
 ![](lazy_stud_ani.gif)
+
