@@ -17,5 +17,5 @@ This is for the work-optimized student - openai's [prompt engineering](https://w
 * More questions? **Look in the help tab or code** - there are more detailed descriptions.
 ---
 
-![](lazy_stud_ani.gif)
+![](lazy_stud_ani_v2.gif)
 
