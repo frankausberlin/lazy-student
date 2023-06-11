@@ -1,5 +1,5 @@
 # lazy-student
-Video playlists collections transcriptions bilingual for prompt engineering
+Video playlists collections transcriptions bilingual for gpt prompt engineering
 
 **currently the software is still in the testing phase - be careful.**
 
